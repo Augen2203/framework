@@ -23,7 +23,7 @@
     }
   ],
   "require": {
-    "php": "^8",
+    "php": "^7.4",
     "ext-intl": "*",
     "ext-json": "*",
     "asantibanez/laravel-blade-sortable": "^1.3",
